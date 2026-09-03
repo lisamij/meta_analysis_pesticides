@@ -5,15 +5,16 @@ This project contains file for the analysis of Mercer et al 202X. It is structur
 - outputs: Ouputs from the analyses
 - R: Auxiliary R functions that are called in analyses
 - figures:  Figures from the analyses
-- renv: Management of the packages through renv
 
 Each folder contain its own README with more detailed information. 
 
 This project also contains the following files:
 - `README.md`: presentation of the project
-- `.here`: file used to manage the project
+- `.here`: file used to manage the project paths
 - `LICENSE.md`: content of the license
-- 'DESCRIPTION': summary of the project
-
+- `DESCRIPTION`: summary of the project
+- `renv.lock`: management of packages with Renv
+- `.gitignore`: management of github
+- `.Rbuildignore`: management of structure
 
 This project was created following the structure advised here: https://rdatatoolbox.github.io/chapters/ex-compendium.html
