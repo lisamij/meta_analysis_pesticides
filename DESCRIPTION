@@ -1,0 +1,44 @@
+Package: meta_analysis_pesticides
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Lisa",
+           family  = "Mijares",
+           role    = c("aut", "cre", "cph"),
+           email   = "lisa.mijares@hotmail.fr",
+           comment = c(ORCID = "{{orcid}}")))
+Description: This project contains file for the analysis of Mercer 2026
+URL: https://github.com/lisamij/meta_analysis_pesticides
+BugReports: https://github.com/lisamij/meta_analysis_pesticides/issues
+License: GPL-2
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Imports: 
+    ape,
+    clubSandwich,
+    corrplot,
+    devtools,
+    dmetar,
+    drc,
+    emmeans,
+    fitdistrplus,
+    gamlss.dist,
+    ggbeeswarm,
+    here,
+    kableExtra,
+    magick,
+    metaAidR,
+    metafor,
+    metagear,
+    MuMIn,
+    orchaRd,
+    patchwork,
+    pwr,
+    remotes,
+    rotl,
+    utils,
+    webshot2
+Depends: 
+    tidyverse

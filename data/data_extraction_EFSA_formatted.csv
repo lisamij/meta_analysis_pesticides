@@ -1,0 +1,555 @@
+DATA_ID,STUDY_ID,AI_NAME,AI_50,AI_50_TYPE,FORM_NAME,FORM_50,CONTROL_GROUP,TEST_GROUP,MULTIPLE_MEASUREMENT,MULTIPLE_TYPE,SPECIES_NAME_BINOMIAL,SPECIES_NAME_COMMON,EXPOSURE_DURATION_HOURS,PESTICIDE_CLASS,EXPOSURE_ROUTE,ACUTE_CHRONIC_TOXICITY,FORMULATION_TYPE,FORMULATION_EXPRESSED_IN_AI_CONC,FORMULATION_VALUE_ADJUSTED,YEAR_PUBLISHED,NOTES
+1,1444,Rimsulfuron,>1000,LC50,Rimsulfuron 25WG,>250,1444_ai_a,1444_form_a,1444_1,1,NA,Earthworm,NA,Herbicide,NA,Acute,Water dispersible granule,YES,NA,2005,NA
+2,1439,Glufonisate-ammonium,710,LC50,SL18,1.9,1439_ai_a,1439_form_a,1439_1,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+3,1439,Glufonisate-ammonium,668,EC50,SL14,2.7,1439_ai_b,1439_form_c,1439_2,1,Oncorhynchus mykiss,Rainbow trout,48,Herbicide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+4,1439,Glufonisate-ammonium,668,EC50,SL18,2.5,1439_ai_b,1439_form_d,1439_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+5,1439,Glufonisate-ammonium,>600,LD50,SL14,46,1439_ai_e,1439_form_f,1439_4,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Soluble Concentrate,YES,NA,NA,NA
+6,1439,Glufonisate-ammonium,>600,LD50,SL18,>100,1439_ai_e,1439_form_g,1439_5,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Soluble Concentrate,YES,NA,NA,NA
+7,1439,Glufonisate-ammonium,>345,LD50,SL14,154,1439_ai_h,1439_form_i,1439_6,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Soluble Concentrate,YES,NA,NA,NA
+8,1439,Glufonisate-ammonium,>345,LD50,SL18,>100,1439_ai_h,1439_form_j,1439_7,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Soluble Concentrate,YES,NA,NA,NA
+9,1439,Glufonisate-ammonium,>1000,LC50,SL14,>150,1439_ai_k,1439_form_l,1439_8,1,NA,Earthworm,336,Herbicide,NA,Acute,Soluble Concentrate,NO,YES,NA,NA
+10,1439,Glufonisate-ammonium,>1000,LC50,SL18,>200,1439_ai_k,1439_form_m,1439_9,1,NA,Earthworm,336,Herbicide,NA,Acute,Soluble Concentrate,NO,YES,NA,NA
+11,1437,Trifluralin,>5000,LD50,Treflan,>919,1437_ai_a,1437_form_a,1437_1,1,NA,Rat,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+12,1437,Trifluralin,0.088,LC50,Treflan,0.205,1437_ai_b,1437_form_b,1437_2,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+13,1437,Trifluralin,0.245,EC50,Treflan,0.299,1437_ai_c,1437_form_c,1437_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+14,1437,Trifluralin,0.0122,EC50,Treflan,0.178,1437_ai_d,1437_form_d,1437_4,1,Selenastrum capricornutum,NA,96,Herbicide,NA,Chronic,Emusifiable Concentrate,UNSURE,NA,NA,NA
+15,1437,Trifluralin,>100,LD50,Treflan,>80,1437_ai_e,1437_form_e,1437_5,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+16,1437,Trifluralin,>100,LD50,Treflan,>100,1437_ai_f,1437_form_f,1437_6,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+17,1437,Trifluralin,>500,LC50,Treflan,>240,1437_ai_g,1437_form_g,1437_7,1,NA,Earthworm,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+18,1438,Tolylfluanid,>197,LD50,Euparen M WG 50,>222,1438_ai_a,1438_form_a,1438_1,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Water dispersible granule,YES,NA,NA,NA
+19,1438,Tolylfluanid,>196,LD50,Euparen M WG 50,>200,1438_ai_b,1438_form_b,1438_2,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Water dispersible granule,YES,NA,NA,NA
+20,1438,Tolylfluanid,>1000,LC50,Euparen M WG 50,>961,1438_ai_c,1438_form_c,1438_3,1,NA,Earthworm,NA,Fungicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+21,1445,Tolclofos-methyl,>5000,LD50,Rizolex 50 WP,>3777,1445_ai_a,1445_form_a,1445_1,1,Colinus virginianus,Bobwhite quail,NA,Fungicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+22,1445,Tolclofos-methyl,48,EC50,Rizolex 50 WP,30,1445_ai_b,1445_form_b,1445_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+23,1445,Tolclofos-methyl,0.69,LC50,Rizolex 50 WP,26,1445_ai_c,1445_form_c,1445_3,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+24,1445,Tolclofos-methyl,0.78,EC50,Rizolex 50 WP,0.65,1445_ai_d,1445_form_d,1445_7,2,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+25,1445,Tolclofos-methyl,>1.1,EC50,Rizolex 50 WP,>1.7,1445_ai_d,1445_form_d,1445_4,1,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+26,1445,Tolclofos-methyl,>500,LC50,25SC,>500,1445_ai_e,1445_form_g,1445_5,1,NA,Earthworm,NA,Fungicide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+27,1445,Tolclofos-methyl,>500,LC50,10Dust,>500,1445_ai_e,1445_form_f,1445_6,1,NA,Earthworm,NA,Fungicide,NA,Acute,Powder,YES,NA,NA,NA
+28,1447,Triticonazole,>3.6,LC50,CRLD 001002,0.89,1447_ai_a,1447_form_a,1447_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,UNSURE,YES,NA,NA,NA
+29,1447,Triticonazole,9,EC50,EXP 10642A,0.78,1447_ai_b,1447_form_b,1447_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,UNSURE,YES,NA,NA,NA
+30,1447,Triticonazole,>1000,LC50,EXP 80472B,>1000,1447_ai_c,1447_form_c,1447_3,1,NA,Earthworm,NA,Fungicide,NA,Acute,UNSURE,UNSURE,NA,NA,NA
+31,1446,Clodinafop-propargyl,1392,LD50,TOPIK 100EC,234,1446_ai_a,1446_form_a,1446_1,1,NA,Mammals,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+32,1446,Clodinafop-propargyl,>93.7,LD50,TOPIK 100EC,17.8,1446_ai_b,1446_form_b,1446_2,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+33,1446,Clodinafop-propargyl,197,LC50,TOPIK 100EC,28.3,1446_ai_c,1446_form_c,1446_3,1,NA,Earthworm,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+34,1443,Pirimiphos-methyl,0.404,LC50,Actellic 50EC,0.266,1443_ai_a,1443_form_a,1443_1,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+35,1443,Pirimiphos-methyl,0.00021,EC50,Actellic 50EC,0.00025,1443_ai_b,1443_form_b,1443_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+36,1443,Pirimiphos-methyl,1.4,LC50,Actellic 50EC,0.76,1443_ai_c,1443_form_c,1443_3,1,Cyrpinus carpio,NA,96,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+37,1442,Pirimicarb,0.017,EC50,Pirimor,0.024,1442_ai_a,1442_form_a,1442_1,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+38,1442,Pirimicarb,4,LD50,Pirimor,14,1442_ai_b,1442_form_b,1442_2,1,Apis mellifera,Honeybee,24,Insecticide,Oral,Acute,Water dispersible granule,YES,NA,NA,NA
+39,1449,Thiodicarb,0.027,EC50,Larvin,0.109,1449_ai_a,1449_form_a,1449_1,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Soluble Concentrate,NO,YES,NA,NA
+40,1449,Thiodicarb,38.5,LC50,Larvin,90.3,1449_ai_b,1449_form_b,1449_2,1,NA,Earthworm,NA,Insecticide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+41,1448,Trinexapac-ethyl,>142.5,EC50,Moddus 250 EC,0.73,1448_ai_a,1448_form_a,1448_1,1,Daphnia magna,Water flea,48,Plant growth regulator,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+42,1448,Trinexapac-ethyl,8.8,EC50,Moddus 250 EC,5.5,1448_ai_b,1448_form_b,1448_2,1,Lemna gibba,NA,168,Plant growth regulator,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+43,1451,Metrafenone,>0.82,LC50,BAS 560 00F,>28.2,1451_ai_a,1451_form_b,1451_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+44,1451,Metrafenone,>0.82,LC50,BAS 560 02F,>57.2,1451_ai_a,1451_form_c,1451_2,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+45,1451,Metrafenone,>0.92,EC50,BAS 560 00F,6,1451_ai_d,1451_form_e,1451_3,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+46,1451,Metrafenone,>0.92,EC50,BAS 560 02F,>1.09,1451_ai_d,1451_form_f,1451_4,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+47,1451,Metrafenone,0.71,EC50,BAS 560 00F,2.9,1451_ai_g,1451_form_h,1451_5,1,Selenastrum capricornutum,NA,72,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+48,1451,Metrafenone,0.71,EC50,BAS 560 02F,>2.248,1451_ai_g,1451_form_i,1451_6,1,Selenastrum capricornutum,NA,72,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+49,1451,Metrafenone,>0.87,EC50,BAS 560 00F,21,1451_ai_g,1451_form_h,1451_7,2,Selenastrum capricornutum,NA,72,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+50,1451,Metrafenone,>0.87,EC50,BAS 560 02F,>2.248,1451_ai_g,1451_form_i,1451_8,2,Selenastrum capricornutum,NA,72,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+51,1451,Metrafenone,>114,LD50,BAS 560 00F,>32.7,1451_ai_j,1451_form_k,1451_9,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+52,1451,Metrafenone,>114,LD50,BAS 560 02F,>58.3,1451_ai_j,1451_form_l,1451_10,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+53,1451,Metrafenone,>100,LD50,BAS 560 00F,>28.8,1451_ai_m,1451_form_n,1451_11,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+54,1451,Metrafenone,>100,LD50,BAS 560 02F,>48.9,1451_ai_m,1451_form_o,1451_12,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+55,1451,Metrafenone,>500,LC50,BAS 560 00F,>150,1451_ai_p,1451_form_q,1451_13,1,NA,Earthworm,NA,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+56,1451,Metrafenone,>500,LC50,BAS 560 02F,>250,1451_ai_p,1451_form_r,1451_14,1,NA,Earthworm,NA,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+57,1452,Fenitrothion,330,LD50,IPM 400,8800,1452_ai_a,1452_form_a,1452_1,1,NA,Mammals,NA,Insecticide,NA,Acute,Capsule Suspension Concentrate,YES,NA,NA,NA
+58,1452,Fenitrothion,23,LD50,IPM 400,47.1,1452_ai_b,1452_form_b,1452_2,1,NA,Birds,NA,Insecticide,Oral,Chronic,Capsule Suspension Concentrate,YES,NA,NA,NA
+59,1452,Fenitrothion,1.3,LC50,IPM 400,>2.1,1452_ai_c,1452_form_c,1452_3,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Capsule Suspension Concentrate,YES,NA,NA,NA
+60,1452,Fenitrothion,0.2,LD50,IPM 400,16.48,1452_ai_d,1452_form_d,1452_4,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Capsule Suspension Concentrate,YES,NA,NA,NA
+61,1452,Fenitrothion,0.16,LD50,IPM 400,9.38,1452_ai_e,1452_form_e,1452_5,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Capsule Suspension Concentrate,YES,NA,NA,NA
+62,1453,Pyrimethanil,10.56,LC50,Scala,19,1453_ai_a,1453_form_a,1453_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+63,1453,Pyrimethanil,2.9,EC50,Scala,3.8,1453_ai_b,1453_form_b,1453_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+64,1453,Pyrimethanil,5.84,EC50,Scala,13.1,1453_ai_c,1453_form_c,1453_3,1,NA,Green alga,96,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+65,1453,Pyrimethanil,>100,LD50,Scala,>80,1453_ai_d,1453_form_d,1453_4,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Suspension Concentrate,NO,YES,NA,NA
+66,1453,Pyrimethanil,>100,LD50,Scala,>80,1453_ai_e,1453_form_e,1453_5,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Suspension Concentrate,NO,YES,NA,NA
+67,1453,Pyrimethanil,313,LC50,Scala,>187,1453_ai_f,1453_form_f,1453_6,1,NA,Earthworm,336,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+68,1454,Malathion,359,LD50,Fyfanon,214,1454_ai_a,1454_form_a,1454_1,1,Colinus virginianus,Bobwhite quail,NA,Insecticide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+69,1454,Malathion,0.022,LC50,Fyfanon,0.053,1454_ai_b,1454_form_b,1454_2,1,NA,Fish,96,Insecticide,NA,Acute,Oil in water emulsion,UNSURE,NA,NA,NA
+70,1454,Malathion,0.00072,EC50,Fyfanon,0.0018,1454_ai_c,1454_form_c,1454_3,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Oil in water emulsion,UNSURE,NA,NA,NA
+71,1454,Malathion,306,LC50,Fyfanon,58,1454_ai_d,1454_form_d,1454_4,1,NA,Earthworm,336,Insecticide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+72,1450,Metconazole,4.2,EC50,Caramba 60 SL,0.365,1450_ai_a,1450_form_a,1450_1,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+73,1450,Metconazole,1.7,EC50,Caramba 60 SL,5.13,1450_ai_b,1450_form_b,1450_2,1,Selenastrum capricornutum,NA,72,Fungicide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+74,1457,Fipronil,>1000,LC50,Regent 500FS,>1000,1457_ai_a,1457_form_a,1457_1,1,NA,Earthworm,NA,Insecticide,NA,Acute,Flowable concentrate,UNSURE,NA,NA,NA
+75,1455,Ethoprophos,47,LD50,Mocap 10G,32.9,1455_ai_a,1455_form_a,1455_1,1,NA,Rat,NA,Insecticide,NA,Acute,Granule,YES,NA,NA,NA
+76,1458,Cadusafos,16.1,LD50,Rugby 200CS,20.52,1458_ai_a,1458_form_a,1458_1,1,Colinus virginianus,Bobwhite quail,NA,Insecticide,Oral,Acute,Capsule Suspension,UNSURE,NA,NA,NA
+77,1458,Cadusafos,130,LC50,Rugby 200CS,900,1458_ai_b,1458_form_b,1458_2,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Capsule Suspension,UNSURE,NA,NA,NA
+78,1458,Cadusafos,0.75,LC50,Rugby 200CS,0.22,1458_ai_c,1458_form_c,1458_3,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Capsule Suspension,UNSURE,NA,NA,NA
+79,1465,Formetanate hydrochloride,1.3,EC50,Dicarzol 500 SG,0.6,1465_ai_a,1465_form_a,1465_1,1,Selenastrum capricornutum,NA,72,Insecticide,NA,Acute,Water soluble granule,NO,YES,NA,NA
+80,1463,Phosmet,0.23,LC50,Imidan 50 WP,0.073,1463_ai_a,1463_form_a,1463_1,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+81,1463,Phosmet,0.51,EC50,Imidan 50 WP,1.795,1463_ai_b,1463_form_b,1463_2,1,NA,Algae,72,Insecticide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+82,1463,Phosmet,0.0021,EC50,Imidan 50 WP,0.0022,1463_ai_c,1463_form_c,1463_3,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+83,1462,Carbaryl,614,LD50,Sevin XLR Plus,300,1462_ai_a,1462_form_a,1462_1,1,NA,Rat,NA,Plant growth regulator,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+84,1462,Carbaryl,>0.21,LD50,Sevin XLR Plus,>0.69,1462_ai_b,1462_form_b,1462_2,1,Apis mellifera,Honeybee,72,Plant growth regulator,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+85,1462,Carbaryl,0.14,LD50,Sevin XLR Plus,>1.69,1462_ai_c,1462_form_c,1462_3,1,Apis mellifera,Honeybee,72,Plant growth regulator,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+86,1467,Dimethomorph,3900,LD50,Forum,135,1467_ai_a,1467_form_a,1467_1,1,NA,Mammals,NA,Fungicide,NA,Acute,Dispersible Concentrate,YES,NA,NA,NA
+87,1467,Dimethomorph,>2000,LD50,Forum,186,1467_ai_b,1467_form_b,1467_2,1,Colinus virginianus,Bobwhite quail,NA,Fungicide,NA,Acute,Dispersible Concentrate,YES,NA,NA,NA
+88,1467,Dimethomorph,3.4,LC50,Forum,2.64,1467_ai_c,1467_form_c,1467_3,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Dispersible Concentrate,UNSURE,NA,NA,NA
+89,1467,Dimethomorph,>32.4,LD50,Forum,>74.4,1467_ai_d,1467_form_d,1467_4,1,Apis mellifera,Honeybee,48,Fungicide,Oral,Acute,Dispersible Concentrate,UNSURE,NA,NA,NA
+90,1467,Dimethomorph,>102,LD50,Forum,>100,1467_ai_e,1467_form_e,1467_5,1,Apis mellifera,Honeybee,48,Fungicide,Contact,Acute,Dispersible Concentrate,UNSURE,NA,NA,NA
+91,1467,Dimethomorph,>500,LC50,Forum,99.5,1467_ai_f,1467_form_f,1467_6,1,NA,Earthworm,NA,Fungicide,NA,Acute,Dispersible Concentrate,YES,NA,NA,NA
+92,1471,Methomyl,30,LD50,Methomyl 20SL,27.35,1471_ai_a,1471_form_a,1471_1,1,NA,Mammals,NA,Insecticide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+93,1471,Methomyl,24.2,LD50,Methomyl 20SL,30.4,1471_ai_b,1471_form_b,1471_2,1,Colinus virginianus,Bobwhite quail,NA,Insecticide,NA,Acute,Soluble Concentrate,UNSURE,NA,NA,NA
+94,1471,Methomyl,0.63,LC50,Methomyl 20SL,1.1,1471_ai_c,1471_form_c,1471_3,1,Lepomis macrochirus,Bluegill sunfish,96,Insecticide,NA,Acute,Soluble Concentrate,UNSURE,NA,NA,NA
+95,1471,Methomyl,0.28,LD50,Methomyl 20SL,0.2,1471_ai_d,1471_form_d,1471_4,1,Apis mellifera,Honeybee,48,Insecticide,Oral,Acute,Soluble Concentrate,YES,NA,NA,NA
+96,1471,Methomyl,0.16,LD50,Methomyl 20SL,0.17,1471_ai_e,1471_form_e,1471_5,1,Apis mellifera,Honeybee,48,Insecticide,Contact,Acute,Soluble Concentrate,YES,NA,NA,NA
+97,1469,Dimethoate,2,EC50,Dimethoate 400 EC,2.2,1469_ai_a,1469_form_a,1469_1,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+98,1469,Dimethoate,90.4,EC50,Dimethoate 400 EC,93.3,1469_ai_b,1469_form_b,1469_2,1,Selenastrum capricornutum,NA,72,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+99,1469,Dimethoate,31,LC50,Dimethoate 400 EC,84.5,1469_ai_c,1469_form_c,1469_3,1,NA,Earthworm,336,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+100,1472,Diazinon,0.09,LD50,Diazol 60 EC,0.13,1472_ai_a,1472_form_a,1472_1,1,Apis mellifera,Honeybee,48,Insecticide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+101,1472,Diazinon,0.13,LD50,Diazol 60 EC,0.63,1472_ai_b,1472_form_b,1472_2,1,Apis mellifera,Honeybee,48,Insecticide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+102,1470,Oxydemeton-methyl,34,LD50,Metasystox 250 EC,16.24,1470_ai_a,1470_form_a,1470_1,1,Colinus virginianus,Bobwhite quail,NA,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+103,1470,Oxydemeton-methyl,0.11,EC50,Metasystox 250 EC,0.34,1470_ai_b,1470_form_b,1470_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+104,1470,Oxydemeton-methyl,115,LC50,Metasystox 250 EC,80,1470_ai_c,1470_form_c,1470_3,1,NA,Earthworm,336,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+105,1570,Haloxyfop-R methyl ester,>12.3,EC50,EF-1400,1.56,1474_ai_b,1474_form_b,1474_2,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+106,1570,Haloxyfop-R methyl ester,3.1,EC50,EF-1400,23.4,1474_ai_d,1474_form_d,1474_4,1,Lemna minor,NA,336,Herbicide,NA,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+107,1570,Haloxyfop-R methyl ester,672,LC50,EF-1400,40.6,1474_ai_g,1474_form_g,1474_7,1,NA,Earthworm,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+108,1475,Metribuzin,74.6,LC50,Mistral,134.2,1475_ai_a,1475_form_a,1475_1,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+109,1475,Metribuzin,49,EC50,Mistral,58,1475_ai_b,1475_form_b,1475_2,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+110,1475,Metribuzin,0.02,EC50,Mistral,0.04,1475_ai_c,1475_form_c,1475_3,1,Scenedesmus subspicatus,NA,72,Herbicide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+111,1475,Metribuzin,166,LD50,Mistral,37.1,1475_ai_d,1475_form_e,1475_4,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Water dispersible granule,YES,NA,NA,NA
+112,1475,Metribuzin,166,LD50,Metribuzin 70 WG,134,1475_ai_d,1475_form_f,1475_5,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Water dispersible granule,YES,NA,NA,NA
+113,1475,Metribuzin,200,LD50,Mistral,200,1475_ai_g,1475_form_h,1475_6,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Water dispersible granule,YES,NA,NA,NA
+114,1475,Metribuzin,200,LD50,Metribuzin 70 WG,700,1475_ai_g,1475_form_i,1475_7,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Water dispersible granule,YES,NA,NA,NA
+115,1569,Carbosulfan,10,LD50,Marshal 25CS,12,1477_ai_a,1477_form_a,1477_1,1,Anas platyrhynchos,NA,NA,Insecticide,NA,Acute,Granule,UNSURE,NA,NA,NA
+116,1569,Carbosulfan,0.0015,EC50,Marshal 10G,0.00105,1477_ai_b,1477_form_c,1477_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Granule,YES,NA,NA,NA
+117,1569,Carbosulfan,0.0015,EC50,Marshal 25CS,0.00104,1477_ai_b,1477_form_d,1477_3,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Granule,YES,NA,NA,NA
+118,1479,Spriromesifen,0.016,LC50,Oberon SC 240,0.105,1479_ai_a,1479_form_a,1479_1,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+119,1479,Spriromesifen,>0.034,LC50,Oberon SC 240,0.057,1479_ai_b,1479_form_b,1479_2,1,Lepomis macrochirus,NA,96,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+120,1479,Spriromesifen,>0.092,EC50,Oberon SC 240,15.9,1479_ai_c,1479_form_c,1479_3,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+121,1479,Spriromesifen,>0.094,EC50,Oberon SC 240,>1.48,1479_ai_d,1479_form_d,1479_4,2,Pseudokirchneriella subcapitata,NA,72,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+122,1479,Spriromesifen,>0.094,EC50,Oberon SC 240,>1.48,1479_ai_d,1479_form_d,1479_5,1,Pseudokirchneriella subcapitata,NA,72,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+123,1479,Spriromesifen,792.4,LD50,Oberon SC 240,>60.2,1479_ai_e,1479_form_e,1479_6,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+124,1479,Spriromesifen,>200,LD50,Oberon SC 240,>200,1479_ai_f,1479_form_f,1479_7,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+125,1479,Spriromesifen,>1000,LC50,Oberon SC 240,>1000,1479_ai_g,1479_form_g,1479_8,1,NA,Earthworm,NA,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+126,1483,Benthiavalicarb-isopropyl,>10,LC50,KIF-230 15% WG,>15,1483_ai_a,1483_form_a,1483_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Water dispersible granule,NO,YES,NA,NA
+127,1483,Benthiavalicarb-isopropyl,>10,EC50,KIF-230 15% WG,>15,1483_ai_b,1483_form_b,1483_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Water dispersible granule,NO,YES,NA,NA
+128,1483,Benthiavalicarb-isopropyl,>10,EC50,KIF-230 15% WG,4.2,1483_ai_c,1483_form_c,1483_6,2,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Water dispersible granule,NO,YES,NA,NA
+129,1483,Benthiavalicarb-isopropyl,>10,EC50,KIF-230 15% WG,>15,1483_ai_c,1483_form_c,1483_3,1,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Water dispersible granule,NO,YES,NA,NA
+130,1483,Benthiavalicarb-isopropyl,>100,LD50,KIF-230 15% WG,>100,1483_ai_d,1483_form_d,1483_4,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Water dispersible granule,YES,NA,NA,NA
+131,1483,Benthiavalicarb-isopropyl,>100,LD50,KIF-230 15% WG,>100,1483_ai_e,1483_form_e,1483_5,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Water dispersible granule,YES,NA,NA,NA
+132,1482,Clomazone,12.7,EC50,Command 360 CS,155.7,1482_ai_a,1482_form_a,1482_1,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+133,1482,Clomazone,34,EC50,Command 360 CS,357,1482_ai_b,1482_form_b,1482_2,1,Lemna gibba,NA,168,Herbicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+134,1482,Clomazone,2,EC50,Command 360 CS,53.3,1482_ai_c,1482_form_c,1482_4,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+135,1482,Clomazone,4.1,EC50,Command 360 CS,116.1,1482_ai_c,1482_form_c,1482_3,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+136,1484,Fludioxonil,>5000,LD50,Celest 025 FS,>3000,1484_ai_a,1484_form_a,1484_1,1,NA,Mammals,NA,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+137,1484,Fludioxonil,0.23,LC50,Celest 025 FS,0.583,1484_ai_b,1484_form_b,1484_2,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+138,1481,Prosulfocarb,0.51,EC50,A-8545 C,0.42,1481_ai_a,1481_form_a,1481_1,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,UNSURE,YES,NA,NA,NA
+139,1481,Prosulfocarb,0.049,EC50,80% EC,0.066,1481_ai_b,1481_form_b,1481_2,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+140,1481,Prosulfocarb,0.12,EC50,80% EC,0.114,1481_ai_b,1481_form_b,1481_3,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+141,1481,Prosulfocarb,>80,LD50,SF245,>79.3,1481_ai_c,1481_form_c,1481_4,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,UNSURE,YES,NA,NA,NA
+142,1481,Prosulfocarb,71.8,LC50,80EW,>54.5,1481_ai_d,1481_form_e,1481_5,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,UNSURE,YES,NA,NA,NA
+143,1481,Prosulfocarb,71.8,LC50,80EC,>3,1481_ai_d,1481_form_f,1481_6,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+144,1486,Quinoclamine,>2000,LD50,Mogeton,>500,1486_ai_a,1486_form_a,1486_1,1,NA,Birds,NA,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+145,1486,Quinoclamine,394,LD50,Mogeton,>206,1486_ai_b,1486_form_b,1486_2,1,NA,Birds,NA,Herbicide,NA,Short-term,Wettable Powder,YES,NA,NA,NA
+146,1486,Quinoclamine,500,LD50,Mogeton,>1250,1486_ai_c,1486_form_c,1486_3,1,NA,Mammals,NA,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+147,1486,Quinoclamine,0.063,LC50,Mogeton,0.12,1486_ai_d,1486_form_d,1486_4,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+148,1486,Quinoclamine,2.15,EC50,Mogeton,0.93,1486_ai_e,1486_form_e,1486_5,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+149,1486,Quinoclamine,0.022,EC50,Mogeton,0.014,1486_ai_f,1486_form_f,1486_6,2,Scenedesmus subspicatus,NA,72,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+150,1486,Quinoclamine,0.022,EC50,Mogeton,0.022,1486_ai_f,1486_form_f,1486_7,1,Scenedesmus subspicatus,NA,72,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+151,1486,Quinoclamine,187,LC50,Mogeton,230,1486_ai_g,1486_form_g,1486_8,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+152,1485,Fenoxaprop-P-ethyl,>3150,LD50,Puma S69,>2769,1485_ai_a,1485_form_a,1485_1,1,NA,Rat,NA,Herbicide,NA,Acute,Oil in water emulsion,NO,YES,NA,NA
+153,1485,Fenoxaprop-P-ethyl,>199,LD50,Puma S69,23.2,1485_ai_b,1485_form_b,1485_2,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Oil in water emulsion,YES,NA,NA,NA
+154,1485,Fenoxaprop-P-ethyl,>200,LD50,Puma S69,>36.4,1485_ai_c,1485_form_c,1485_3,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Oil in water emulsion,YES,NA,NA,NA
+155,1489,Amidosulfuron,>2000,LD50,Gratil,>2000,1489_ai_a,1489_form_a,1489_1,1,Coturnix japonica,Japanese quail,NA,Herbicide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+156,1489,Amidosulfuron,>320,LC50,Gratil,113.9,1489_ai_b,1489_form_b,1489_2,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+157,1489,Amidosulfuron,36,EC50,Gratil,141.9,1489_ai_c,1489_form_c,1489_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+158,1489,Amidosulfuron,47,EC50,Gratil,25.8,1489_ai_d,1489_form_d,1489_4,1,Scenedesmus subspicatus,NA,72,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+159,1489,Amidosulfuron,0.0092,EC50,Gratil,0.00773,1489_ai_e,1489_form_e,1489_5,2,Lemna gibba,NA,118,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+160,1489,Amidosulfuron,0.0092,EC50,Gratil,0.00765,1489_ai_e,1489_form_e,1489_6,1,Lemna gibba,NA,118,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+161,1489,Amidosulfuron,>1000,LC50,Gratil,>750,1489_ai_f,1489_form_f,1489_7,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+162,1491,Nicosulfuron,>2000,LD50,SL-950 4% SC,>2000,1491_ai_a,1491_form_a,1491_1,1,Colinus virginianus,Bobwhite quail,NA,Herbicide,NA,Acute,Oil dispersion,UNSURE,NA,NA,NA
+163,1491,Nicosulfuron,>2000,LD50,SL-950 4% SC,>2000,1491_ai_b,1491_form_b,1491_2,1,Anas platyrhynchos,Mallard duck,NA,Herbicide,NA,Acute,Oil dispersion,UNSURE,NA,NA,NA
+164,1491,Nicosulfuron,65.7,LC50,SL-950 4% SC,3.1,1491_ai_c,1491_form_c,1491_3,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Oil dispersion,YES,NA,NA,NA
+165,1491,Nicosulfuron,90,EC50,SL-950 4% SC,3.3,1481_ai_d,1481_form_d,1491_4,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Oil dispersion,YES,NA,NA,NA
+166,1491,Nicosulfuron,0.0017,EC50,SL-950 4% SC,0.0024,1481_ai_e,1481_form_e,1491_5,2,Lemna gibba,NA,118,Herbicide,NA,Acute,Oil dispersion,YES,NA,NA,NA
+167,1491,Nicosulfuron,0.0027,EC50,SL-950 4% SC,0.0042,1481_ai_e,1481_form_e,1491_6,1,Lemna gibba,NA,118,Herbicide,NA,Acute,Oil dispersion,YES,NA,NA,NA
+168,1491,Nicosulfuron,>1000,LC50,SL-950 4% SC,>1000,1481_ai_f,1481_form_f,1491_7,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Oil dispersion,UNSURE,NA,NA,NA
+169,1490,Fenpropidin,>10,LD50,Tern 750 EC,99.9,1490_ai_a,1490_form_a,1490_1,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+170,1490,Fenpropidin,46,LD50,Tern 750 EC,55.3,1490_ai_b,1490_form_b,1490_2,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+171,1487,Acequinocyl,3.9,EC50,Kanemite,2.36,1487_ai_a,1487_form_a,1487_1,1,Daphnia magna,Water flea,48,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+172,1505,Flutolanil,>3.2,EC50,Moncut 40 SC,12.3,1505_ai_a,1505_form_a,1505_1,1,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+173,1500,Benfluralin,>100,EC50,Bonalan,6.91,1500_ai_a,1500_form_a,1500_1,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+174,1500,Benfluralin,>100,EC50,Bonalan,0.23,1500_ai_b,1500_form_b,1500_2,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+175,1500,Benfluralin,>100,EC50,Bonalan,0.73,1500_ai_b,1500_form_b,1500_3,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+176,1500,Benfluralin,>110.7,LD50,Bonalan,>31.25,1500_ai_c,1500_form_c,1500_4,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+177,1500,Benfluralin,>100,LD50,Bonalan,>100,1500_ai_d,1500_form_d,1500_5,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+178,1500,Benfluralin,>500,LC50,Bonalan,139.5,1500_ai_e,1500_form_e,1500_6,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+179,1503,Buprofezin,>0.42,EC50,Applaud 25 WP,>1.5,1503_ai_a,1503_form_a,1503_1,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+180,1503,Buprofezin,>2.1,EC50,Applaud 25 WP,>1,1503_ai_b,1503_form_b,1503_2,2,Selenastrum capricornutum,NA,96,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+181,1503,Buprofezin,>2.1,EC50,Applaud 25 WP,>1,1503_ai_b,1503_form_b,1503_3,1,Selenastrum capricornutum,NA,96,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+182,1503,Buprofezin,>163.5,LD50,Applaud 25 WP,>100,1503_ai_c,1503_form_c,1503_4,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Wettable Powder,YES,NA,NA,NA
+183,1503,Buprofezin,>200,LD50,Applaud 25 WP,>100,1503_ai_d,1503_form_d,1503_5,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Wettable Powder,YES,NA,NA,NA
+184,1503,Buprofezin,>500,LC50,Applaud 25 WP,>500,1503_ai_e,1503_form_e,1503_6,1,Eisenia foetida,Earthworm,336,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+185,1498,Bromucanazole,0.061,EC50,EXP10064C,1.59,1498_ai_a,1498_form_a,1498_1,2,Pseudokirchneriella subcapitata,NA,120,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+186,1498,Bromucanazole,0.169,EC50,EXP10064C,2.88,1498_ai_a,1498_form_a,1498_2,1,Pseudokirchneriella subcapitata,NA,120,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+187,1498,Bromucanazole,>500,LC50,EXP10064B,117,1498_ai_b,1498_form_b,1498_3,1,Eisenia foetida,Earthworm,NA,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+188,1499,Fluazinam,4100,LD50,Fluazinam 500 SC,>2000,1499_ai_a,1499_form_a,1499_1,1,Rattus norvegicus,NA,NA,Fungicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+189,1499,Fluazinam,>100,LD50,Fluazinam 500 SC,>101,1499_ai_b,1499_form_b,1499_2,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+190,1499,Fluazinam,>500,LC50,Fluazinam 500 SC,>341,1499_ai_c,1499_form_c,1499_3,1,Eisenia foetida,Earthworm,336,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+191,1502,Epoxiconazole,1.19,EC50,Opus,0.1,1502_ai_a,1502_form_a,1502_1,1,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+192,1502,Epoxiconazole,8.69,EC50,Opus,0.22,1502_ai_b,1502_form_b,1502_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+193,1502,Epoxiconazole,3.14,LC50,Opus,0.059,1502_ai_c,1502_form_c,1502_3,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+194,1502,Epoxiconazole,>83,LD50,Opus,>69.9,1502_ai_d,1502_form_d,1502_4,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+195,1502,Epoxiconazole,>100,LD50,Opus,>59.7,1502_ai_e,1502_form_e,1502_5,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+196,1502,Epoxiconazole,>500,LC50,Opus,>62.5,1502_ai_f,1502_form_f,1502_6,1,NA,Earthworm,NA,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+197,1496,Tralkoxydim,>175,EC50,YF 7763B,163,1496_ai_a,1496_form_a,1496_1,1,Daphnia magna,Water flea,NA,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+198,1496,Tralkoxydim,>100,LD50,A-12706 A,>100,1496_ai_b,1496_form_b,1496_2,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+199,1496,Tralkoxydim,>1000,LC50,A-12706 A,>1000,1496_ai_c,1496_form_c,1496_3,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+200,1501,Fenpropimorph,2.24,EC50,RO 14-3169/002,1.13,1501_ai_b,1501_form_b,1501_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,UNSURE,YES,NA,NA,NA
+201,1501,Fenpropimorph,>95.6,LD50,BAS 421 12 F,>79.5,1501_ai_c,1501_form_c,1501_3,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,UNSURE,UNSURE,NA,NA,NA
+202,1501,Fenpropimorph,>100,LD50,BAS 421 12 F,>100,1501_ai_d,1501_form_d,1501_4,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,UNSURE,UNSURE,NA,NA,NA
+203,1495,Metazachlor,33,EC50,Fuego,29.7,1495_ai_a,1495_form_a,1495_1,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+204,1495,Metazachlor,0.0162,EC50,BAS 479 22H,0.0076,1495_ai_b,1495_form_b,1495_2,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+205,1495,Metazachlor,0.0088,EC50,Fuego,0.0279,1495_ai_c,1495_form_c,1495_3,2,Scenedesmus subspicatus,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+206,1495,Metazachlor,0.0318,EC50,BAS 479 22H,0.012,1495_ai_b,1495_form_b,1495_4,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+207,1495,Metazachlor,0.031,EC50,Fuego,0.0488,1495_ai_c,1495_form_c,1495_5,1,Scenedesmus subspicatus,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+208,1495,Metazachlor,0.0023,EC50,BAS 479 22H,0.0022,1495_ai_d,1495_form_d,1495_6,2,Lemna gibba,NA,118,Herbicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+209,1495,Metazachlor,0.0071,EC50,BAS 479 22H,0.014,1495_ai_d,1495_form_d,1495_7,1,Lemna gibba,NA,118,Herbicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+210,1495,Metazachlor,>72.19,LD50,BAS 479 22H,>92.12,1495_ai_e,1495_form_e,1495_8,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+211,1495,Metazachlor,>100,LD50,BAS 479 22H,>100,1495_ai_f,1495_form_f,1495_9,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+212,1495,Metazachlor,>500,LC50,BAS 479 22H,>250,1495_ai_g,1495_form_g,1495_10,1,NA,Earthworm,336,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+213,1513,Aclonifen,>5000,LD50,Bandur SC 600,2770,1513_ai_a,1513_form_a,1515_1,1,NA,Rat,NA,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+214,1513,Aclonifen,>107,LD50,Bandur SC 600,>142,1513_ai_b,1513_form_b,1515_2,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Suspension Concentrate,NO,YES,NA,NA
+215,1513,Aclonifen,>100,LD50,Bandur SC 600,>123,1513_ai_c,1513_form_c,1515_3,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Suspension Concentrate,NO,YES,NA,NA
+216,1513,Aclonifen,150,LC50,Bandur SC 600,97,1513_ai_d,1513_form_d,1515_4,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+217,1506,Sulcotrione,>5000,LD50,Mikado,>2000,1506_ai_a,1506_form_a,1506_1,1,NA,Rat,NA,Herbicide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+218,1506,Sulcotrione,227,LC50,Mikado,100,1506_ai_b,1506_form_b,1506_2,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+219,1506,Sulcotrione,>848,EC50,Mikado,200,1506_ai_c,1506_form_c,1506_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+220,1506,Sulcotrione,50,LD50,Mikado,229,1506_ai_d,1506_form_d,1506_4,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Suspension Concentrate,NO,YES,NA,NA
+221,1506,Sulcotrione,200,LD50,Mikado,229,1506_ai_e,1506_form_e,1506_5,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Suspension Concentrate,NO,YES,NA,NA
+222,1506,Sulcotrione,>1000,LC50,Mikado,>1000,1506_ai_f,1506_form_f,1506_6,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+223,1511,Flurprimidol,11.8,EC50,Topflor,0.688,1511_ai_a,1511_form_a,1511_1,1,Daphnia magna,Water flea,48,Plant growth regulator,NA,Acute,Micro-emulsion,YES,NA,NA,NA
+224,1511,Flurprimidol,1.05,EC50,Topflor,0.624,1511_ai_b,1511_form_b,1511_2,1,Pseudokirchneriella subcapitata,NA,72,Plant growth regulator,NA,Acute,Micro-emulsion,YES,NA,NA,NA
+225,1511,Flurprimidol,>100,LD50,Topflor,>0.0498,1511_ai_c,1511_form_c,1511_3,1,Apis mellifera,Honeybee,NA,Plant growth regulator,Oral,Acute,Micro-emulsion,NO,YES,NA,NA
+226,1511,Flurprimidol,>100,LD50,Topflor,>0.0756,1511_ai_d,1511_form_d,1511_4,1,Apis mellifera,Honeybee,NA,Plant growth regulator,Contact,Acute,Micro-emulsion,NO,YES,NA,NA
+227,1511,Flurprimidol,164,LC50,Topflor,>19,1511_ai_e,1511_form_e,1511_5,1,Eisenia foetida,Earthworm,336,Plant growth regulator,NA,Acute,Micro-emulsion,NO,YES,NA,NA
+228,1509,Tetraconazole,3,EC50,Eminent 40 ME,1.6,1509_ai_a,1509_form_a,1509_1,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Micro-emulsion,UNSURE,NA,NA,NA
+229,1509,Tetraconazole,0.27,EC50,Eminent 40 ME,0.4,1509_ai_b,1509_form_b,1509_2,2,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Micro-emulsion,UNSURE,NA,NA,NA
+230,1509,Tetraconazole,0.41,EC50,Eminent 40 ME,1.5,1509_ai_b,1509_form_b,1509_3,1,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Micro-emulsion,UNSURE,NA,NA,NA
+231,1509,Tetraconazole,>130,LD50,Eminent 40 ME,16.3,1509_ai_c,1509_form_c,1509_4,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Micro-emulsion,YES,NA,NA,NA
+232,1509,Tetraconazole,63,LD50,Eminent 40 ME,27.2,1509_ai_d,1509_form_d,1509_5,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Micro-emulsion,YES,NA,NA,NA
+233,1509,Tetraconazole,71,LC50,Eminent 40 ME,>19.12,1509_ai_e,1509_form_e,1509_6,1,Eisenia foetida,Earthworm,336,Fungicide,NA,Acute,Micro-emulsion,YES,NA,NA,NA
+234,1514,Acetochlor,928,LD50,GF-675,1345,1514_ai_a,1514_form_b,1514_1,1,Colinus virginianus,Bobwhite quail,NA,Herbicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+235,1514,Acetochlor,928,LD50,MON 69447,375,1514_ai_a,1514_form_c,1514_2,1,Colinus virginianus,Bobwhite quail,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+236,1514,Acetochlor,8.6,EC50,WF-2061,7.4,1514_ai_e,1514_form_p,1514_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,UNSURE,YES,NA,NA,NA
+237,1514,Acetochlor,8.6,EC50,GF-675,>6.4,1514_ai_e,1514_form_q,1514_4,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+238,1514,Acetochlor,0.00031,EC50,GF-675,0.00077,1514_ai_f,1514_form_g,1514_5,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Capsule Suspension,UNSURE,NA,NA,NA
+239,1514,Acetochlor,0.00031,EC50,MON 69447,0.00071,1514_ai_f,1514_form_h,1514_6,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+240,1514,Acetochlor,0.00052,EC50,GF-675,0.001,1514_ai_f,1514_form_g,1514_7,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Capsule Suspension,UNSURE,NA,NA,NA
+241,1514,Acetochlor,0.00052,EC50,MON 69447,0.00155,1514_ai_f,1514_form_h,1514_8,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+242,1514,Acetochlor,>100,LD50,WF-2061,>116,1514_ai_i,1514_form_j,1514_9,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,UNSURE,YES,NA,NA,NA
+243,1514,Acetochlor,>100,LD50,MON 69447,>153,1514_ai_i,1514_form_k,1514_10,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+244,1514,Acetochlor,>200,LD50,WF-2061,>200,1514_ai_l,1514_form_m,1514_11,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,UNSURE,YES,NA,NA,NA
+245,1514,Acetochlor,>200,LD50,MON 69447,>154,1514_ai_l,1514_form_n,1514_12,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+246,1514,Acetochlor,105.5,LC50,MON 69447,221,1514_ai_o,1514_form_o,1514_13,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+247,1517,Cymoxanil,760,LD50,Cym 50,1200,1517_ai_a,1517_form_a,1517_1,1,Rattus norvegicus,NA,NA,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+248,1517,Cymoxanil,>1000,LC50,Cym 50,>505,1517_ai_b,1517_form_b,1517_2,1,Eisenia foetida,Earthworm,336,Fungicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+249,1512,Cyromazine,>100,LC50,Trigard 75 WP,>75,1512_ai_a,1512_form_a,1512_1,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+250,1512,Cyromazine,>100,EC50,Trigard 75 WP,68,1512_ai_b,1512_form_b,1512_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+251,1516,Dimethachlor,1600,LD50,Teridox 500 EC,>2000,1516_ai_a,1516_form_a,1516_1,1,NA,Rat,NA,Herbicide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+252,1516,Dimethachlor,3.9,LC50,Teridox 500 EC,4.5,1516_ai_b,1516_form_b,1516_2,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+253,1516,Dimethachlor,24,EC50,Teridox 500 EC,8.54,1516_ai_c,1516_form_c,1516_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+254,1516,Dimethachlor,>300,LD50,Teridox 500 EC,>110,1516_ai_d,1516_form_d,1516_4,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+255,1516,Dimethachlor,>200,LD50,Teridox 500 EC,>105,1516_ai_e,1516_form_e,1516_5,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+256,1516,Dimethachlor,70,LC50,Teridox 500 EC,96,1516_ai_f,1516_form_f,1516_6,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+257,1520,Dodemorph acetate,>106.3,LD50,Mehltaumittel,73.4,1520_ai_a,1520_form_a,1520_1,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+258,1520,Dodemorph acetate,>76.6,LD50,Mehltaumittel,144,1520_ai_b,1520_form_b,1520_2,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+259,1520,Dodemorph acetate,>412,LC50,Mehltaumittel,165,1520_ai_c,1520_form_c,1520_3,1,Eisenia foetida,Earthworm,336,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+260,1515,Penconazole,1130,LC50,Topas 10 EC,680,1515_ai_a,1515_form_a,1515_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+261,1515,Penconazole,6750,EC50,Topas 10 EC,3880,1515_ai_b,1515_form_b,1515_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+262,1515,Penconazole,>331.5,LC50,Topas 10 EC,>50,1515_ai_c,1515_form_c,1515_3,1,Eisenia foetida,Earthworm,336,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+263,1508,Tebuconazole,1700,LD50,Folicur EW 250,>500,1508_ai_a,1508_form_a,1508_1,1,NA,Rat,NA,Fungicide,NA,Acute,Oil in water emulsion,NO,YES,NA,NA
+264,1508,Tebuconazole,1.96,EC50,Folicur EW 250,3.45,1508_ai_b,1508_form_b,1508_2,2,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+265,1508,Tebuconazole,5.3,EC50,Folicur EW 250,5.83,1508_ai_b,1508_form_b,1508_3,1,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+266,1508,Tebuconazole,>83.95,LD50,Folicur EW 250,>187,1508_ai_c,1508_form_c,1508_4,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Oil in water emulsion,YES,NA,NA,NA
+267,1508,Tebuconazole,1381,LC50,Folicur EW 250,>254,1508_ai_d,1508_form_d,1508_5,1,Eisenia foetida,Earthworm,336,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+268,1521,Triadimenol,17.4,LC50,Bayfidan EC250,18.2,1521_ai_a,1521_form_a,1521_1,1,Leuciscus idus,NA,96,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+269,1521,Triadimenol,51,EC50,Bayfidan EC250,58.6,1521_ai_b,1521_form_b,1521_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+270,1521,Triadimenol,9.6,EC50,Bayfidan EC250,2.83,1521_ai_c,1521_form_c,1521_3,2,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+271,1521,Triadimenol,38,EC50,Bayfidan EC250,9.61,1521_ai_c,1521_form_c,1521_4,1,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+272,1521,Triadimenol,>224.8,LD50,Bayfidan EC250,64.4,1521_ai_d,1521_form_d,1521_5,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+273,1521,Triadimenol,>200,LD50,Bayfidan EC250,>200,1521_ai_e,1521_form_e,1521_6,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+274,1521,Triadimenol,390.5,LC50,Bayfidan EC250,>89,1521_ai_f,1521_form_f,1521_7,1,Eisenia foetida,Earthworm,NA,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+275,1518,Metamitron,>190,LC50,Goltix SC 700,>114,1518_ai_a,1518_form_a,1518_1,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+276,1518,Metamitron,5.7,EC50,Goltix SC 700,97.6,1518_ai_b,1518_form_b,1518_2,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+277,1518,Metamitron,0.4,EC50,Goltix SC 700,0.49,1518_ai_c,1518_form_c,1518_3,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+278,1518,Metamitron,1.8,EC50,Goltix SC 700,2.01,1518_ai_c,1518_form_c,1518_4,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+279,1518,Metamitron,>97.2,LD50,Goltix SC 700,123.3,1518_ai_d,1518_form_d,1518_5,1,Apis mellifera,Honeybee,48,Herbicide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+280,1518,Metamitron,>100,LD50,Goltix SC 700,>200,1518_ai_e,1518_form_e,1518_6,1,Apis mellifera,Honeybee,48,Herbicide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+281,1522,Copper hydroxide,223,LD50,Kocide 101,357,1522_ai_a,1522_form_a,1522_1,1,Colinus virginianus,Bobwhite quail,NA,Fungicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+282,1522,Bordeaux mixture,>616,LD50,Macc 80,>439.9,1522_ai_b,1522_form_b,1522_2,1,Colinus virginianus,Bobwhite quail,NA,Fungicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+283,1522,Tribasic copper sulphate,616,LD50,Cuproxat,>72.4,1522_ai_c,1522_form_c,1522_3,1,Colinus virginianus,Bobwhite quail,NA,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+284,1522,Copper oxide,1183,LD50,Nordox,650,1522_ai_d,1522_form_d,1522_4,1,Coturnix japonica,NA,NA,Fungicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+285,1522,Copper hydroxide,736,LD50,Kocide 101,417,1522_ai_e,1522_form_e,1522_5,1,NA,Rat,NA,Fungicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+286,1522,Copper hydroxide,679,LD50,Kocide 101,458,1522_ai_f,1522_form_f,1522_6,1,NA,Rat,NA,Fungicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+287,1522,Bordeaux mixture,624,LD50,Macc 80,>410,1522_ai_g,1522_form_g,1522_7,1,NA,Rat,NA,Fungicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+288,1522,Tribasic copper sulphate,162.6,LD50,Cuproxat,378,1522_ai_h,1522_form_h,1522_8,1,NA,Rat,NA,Fungicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+289,1522,Copper oxide,261,LD50,Nordox,2374,1522_ai_i,1522_form_i,1522_9,1,NA,Rat,NA,Fungicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+290,1522,Copper oxychloride,>0.106,LC50,Cuprocaffaro,0.0109,1522_ai_j,1522_form_j,1522_10,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+291,1522,Bordeaux mixture,0.086,LC50,Macc 80,0.052,1522_ai_k,1522_form_k,1522_11,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+292,1522,Copper oxide,0.0344,LC50,Nordox,0.0106,1522_ai_l,1522_form_l,1522_12,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+293,1522,Bordeaux mixture,0.011,EC50,Macc 80,1.73,1522_ai_m,1522_form_m,1522_13,2,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+294,1522,Bordeaux mixture,0.041,EC50,Macc 80,13.06,1522_ai_m,1522_form_m,1522_14,1,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Wettable Powder,UNSURE,NA,NA,NA
+295,1522,Copper hydroxide,44.46,LD50,Kocide 101,>57,1522_ai_n,1522_form_n,1522_15,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Wettable Powder,UNSURE,NA,NA,NA
+296,1522,Copper oxide,>22,LD50,Copper oxide WP,>82.5,1522_ai_o,1522_form_o,1522_16,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Wettable Powder,UNSURE,NA,NA,NA
+297,1507,Fenpyroximate,245,LD50,Kiron,277,1507_ai_a,1507_form_a,1507_1,1,NA,Rat,NA,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+298,1507,Fenpyroximate,0.00105,LC50,Kiron,0.00213,1507_ai_b,1507_form_b,1507_2,1,Oncorhynchus mykiss,Rainbow trout,96,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+299,1507,Fenpyroximate,0.00328,EC50,Kiron,0.00109,1507_ai_c,1507_form_c,1507_3,1,Daphnia magna,Water flea,48,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+300,1507,Fenpyroximate,0.0034,EC50,Kiron,0.0057,1507_ai_d,1507_form_d,1507_4,2,Scenedesmus subspicatus,NA,72,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+301,1507,Fenpyroximate,0.0055,EC50,Kiron,0.0094,1507_ai_d,1507_form_d,1507_5,1,Scenedesmus subspicatus,NA,72,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+302,1507,Fenpyroximate,>118.5,LD50,Kiron,>5,1507_ai_e,1507_form_e,1507_6,1,Apis mellifera,Honeybee,NA,Acaricide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+303,1507,Fenpyroximate,15.8,LD50,Kiron,25,1507_ai_f,1507_form_f,1507_7,1,Apis mellifera,Honeybee,NA,Acaricide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+304,1507,Fenpyroximate,34.7,LC50,Kiron,4.68,1507_ai_g,1507_form_g,1507_8,1,NA,Earthworm,NA,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+305,1566,Lenacil,>5000,LD50,Venzar 80 WP,>4080,1566_ai_a,1566_form_a,1566_1,1,NA,Rat,NA,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+306,1566,Lenacil,>2,LC50,Venzar 80 WP,>2.18,1566_ai_b,1566_form_b,1566_2,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+307,1566,Lenacil,>8.4,EC50,Venzar 80 WP,>2.93,1566_ai_c,1566_form_c,1566_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+308,1566,Lenacil,>25,LD50,Venzar 80 WP,>100,1566_ai_d,1566_form_d,1566_4,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Wettable Powder,YES,NA,NA,NA
+309,1568,Proquinazid,>2250,LC50,Proquinazid 200 g/L EC,>450,1568_ai_a,1568_form_a,1568_1,1,Colinus virginianus,Bobwhite quail,NA,Fungicide,NA,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+310,1568,Proquinazid,4846,LD50,Proquinazid 200 g/L EC,>400,1568_ai_b,1568_form_b,1568_2,1,NA,Rat,NA,Fungicide,NA,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+311,1568,Proquinazid,0.349,LC50,Proquinazid 200 g/L EC,0.446,1568_ai_c,1568_form_c,1568_3,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+312,1568,Proquinazid,0.287,EC50,Proquinazid 200 g/L EC,0.349,1568_ai_d,1568_form_d,1568_4,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+313,1568,Proquinazid,0.684,EC50,Proquinazid 200 g/L EC,0.259,1568_ai_e,1568_form_e,1568_5,1,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+314,1568,Proquinazid,>125,LD50,Proquinazid 200 g/L EC,>99.75,1568_ai_f,1568_form_f,1568_6,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+315,1568,Proquinazid,>197,LD50,Proquinazid 200 g/L EC,>100,1568_ai_g,1568_form_g,1568_7,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+316,1568,Proquinazid,>1000,LC50,Proquinazid 200 g/L EC,>198.8,1568_ai_h,1568_form_h,1568_8,1,NA,Earthworm,336,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+317,1527,Aluminum phosphide,663.5,LC50,Quickphos,108.8,1527_ai_a,1527_form_a,1527_1,1,Eisenia foetida,Earthworm,336,Insecticide,NA,Acute,Gas generating,YES,NA,NA,NA
+318,1523,Teflubenzeron,>5000,LD50,Nomolt,>2000,1523_ai_a,1523_form_a,1523_1,1,NA,Rat,NA,Insecticide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+319,1523,Teflubenzeron,0.0028,EC50,Nomolt,0.00033,1523_ai_b,1523_form_b,1523_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+320,1523,Teflubenzeron,72,LD50,Nomolt,110,1523_ai_c,1523_form_c,1523_3,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+321,1523,Teflubenzeron,100,LD50,Nomolt,100,1523_ai_d,1523_form_d,1523_4,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+322,1523,Teflubenzeron,>500,LC50,Nomolt,>500,1523_ai_e,1523_form_e,1523_5,1,Eisenia foetida,Earthworm,336,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+323,1607,Bifenthrin,0.37,EC50,Talstar 8 SC,5.7,1547_ai_a,1547_form_a,1547_1,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+324,1607,Bifenthrin,0.1,LD50,Talstar 8 SC,0.01,1547_ai_b,1547_form_b,1547_2,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+325,1607,Bifenthrin,>8,LC50,Talstar 8 SC,>39,1547_ai_c,1547_form_c,1547_3,1,Eisenia foetida,Earthworm,336,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+326,1607,Bifenthrin,0.256,LC50,Talstar 8 SC,30,1547_ai_d,1547_form_d,1547_4,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+327,1550,Lufenuron,>29,LC50,Match 050 EC,0.994,1550_ai_a,1550_form_a,1550_1,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+328,1550,Lufenuron,0.0013,EC50,Match 050 EC,0.00041,1550_ai_b,1550_form_b,1550_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+329,1537,Tebufenpyrad,320,LD50,Masai,291.6,1537_ai_a,1537_form_a,1537_1,1,NA,Rat,NA,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+330,1537,Tebufenpyrad,46,EC50,Masai,58,1537_ai_b,1537_form_b,1537_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+331,1537,Tebufenpyrad,60.3,LD50,Masai,7.2,1537_ai_c,1537_form_c,1537_3,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Wettable Powder,NO,YES,NA,NA
+332,1537,Tebufenpyrad,6.7,LD50,Masai,14.69,1537_ai_d,1537_form_d,1537_4,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Wettable Powder,NO,YES,NA,NA
+333,1537,Tebufenpyrad,20.5,LC50,Masai,21.1,1537_ai_e,1537_form_e,1537_5,1,NA,Earthworm,336,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+334,1533,Triflumuron,>5000,LD50,Alystin SC 480,>2123,1533_ai_a,1533_form_a,1533_1,1,NA,Rat,NA,Insecticide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+335,1533,Triflumuron,0.0016,EC50,Alystin SC 480,0.00013,1533_ai_b,1533_form_b,1533_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+336,1533,Triflumuron,>0.025,EC50,Alystin SC 480,157,1533_ai_c,1533_form_c,1533_3,2,Scenedesmus subspicatus,NA,72,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+337,1533,Triflumuron,>0.025,EC50,Alystin SC 480,>179,1533_ai_c,1533_form_c,1533_4,1,Scenedesmus subspicatus,NA,72,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+338,1533,Triflumuron,>226,LD50,Alystin SC 480,>228.6,1533_ai_d,1533_form_d,1533_5,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+339,1533,Triflumuron,>200,LD50,Alystin SC 480,>200,1533_ai_e,1533_form_e,1533_6,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+340,1533,Triflumuron,>500,LC50,Alystin SC 480,>242.5,1533_ai_f,1533_form_f,1533_7,1,Eisenia foetida,Earthworm,336,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+341,1545,Triflusulfuron-methyl,>2250,LD50,Triflusulfurin-methyl 50WG,>1125,1545_ai_a,1545_form_a,1545_1,1,Colinus virginianus,Bobwhite quail,NA,Herbicide,NA,Acute,Water dispersible granule,NO,YES,NA,NA
+342,1545,Triflusulfuron-methyl,>5000,LD50,Triflusulfurin-methyl 50WG,>2500,1545_ai_b,1545_form_b,1545_2,1,NA,Rat,NA,Herbicide,NA,Acute,Water dispersible granule,NO,YES,NA,NA
+343,1545,Triflusulfuron-methyl,730,LC50,Triflusulfurin-methyl 50WG,75,1545_ai_c,1545_form_c,1545_3,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+344,1545,Triflusulfuron-methyl,>960,EC50,Triflusulfurin-methyl 50WG,>600,1545_ai_d,1545_form_d,1545_4,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+345,1545,Triflusulfuron-methyl,0.00282,EC50,Triflusulfurin-methyl 50WG,0.0022,1545_ai_e,1545_form_e,1545_5,1,Lemna gibba,NA,336,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+346,1545,Triflusulfuron-methyl,>1000,LC50,Triflusulfurin-methyl 50WG,>500,1545_ai_f,1545_form_f,1545_6,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+347,1526,Zeta-cypermethrin,0.00069,LC50,Fury 10 EW,0.0013,1526_ai_a,1526_form_a,1526_1,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+348,1526,Zeta-cypermethrin,0.000141,EC50,Fury 10 EW,0.000085,1526_ai_b,1526_form_b,1526_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+349,1526,Zeta-cypermethrin,>1,EC50,Fury 10 EW,0.11,1526_ai_c,1526_form_c,1526_3,2,Pseudokirchneriella subcapitata,NA,96,Insecticide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+350,1526,Zeta-cypermethrin,>1,EC50,Fury 10 EW,0.16,1526_ai_c,1526_form_c,1526_4,1,Pseudokirchneriella subcapitata,NA,96,Insecticide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+351,1531,Chlorsulfuron,0.068,EC50,Chlorsulfuron 75 WG,0.066,1531_ai_a,1531_form_a,1531_1,1,Selenastrum capricornutum,NA,72,Herbicide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+352,1531,Chlorsulfuron,>130,LD50,Chlorsulfuron 75 WG,>101,1531_ai_b,1531_form_b,1531_2,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Water dispersible granule,NO,YES,NA,NA
+353,1531,Chlorsulfuron,>100,LD50,Chlorsulfuron 75 WG,>101,1531_ai_c,1531_form_c,1531_3,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Water dispersible granule,NO,YES,NA,NA
+354,1528,Metam-sodium,>0.175,LC50,Vapam,0.389,1528_ai_a,1528_form_a,1528_1,1,Lepomis macrochirus,NA,96,All,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+355,1532,Propaquizafop,0.19,LC50,Agil 100 EC,0.11,1532_ai_a,1532_form_a,1532_1,1,Cyrpinus carpio,NA,96,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+356,1532,Propaquizafop,>0.9,EC50,Agil 100 EC,0.24,1532_ai_b,1532_form_b,1532_2,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+357,1532,Propaquizafop,>20,LD50,Agil 100 EC,>18.9,1532_ai_c,1532_form_c,1532_3,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+358,1532,Propaquizafop,>200,LD50,Agil 100 EC,>18.9,1532_ai_d,1532_form_d,1532_4,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+359,1532,Propaquizafop,>500,LC50,Agil 100 EC,27,1532_ai_e,1532_form_e,1532_5,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+360,1551,Quizalop-P-ethyl,1182,LD50,Targa Super,127.6,1551_ai_a,1551_form_a,1551_1,1,NA,Rat,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+361,1551,Quizalop-P-ethyl,0.021,EC50,Targa Super,0.024,1551_ai_b,1551_form_b,1551_2,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+362,1551,Quizalop-P-tefuryl,>1.9,EC50,Panarex,0.01,1551_ai_c,1551_form_c,1551_3,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+363,1551,Quizalop-P-ethyl,0.069,EC50,Targa Super,0.06,1551_ai_b,1551_form_b,1551_4,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+364,1551,Quizalop-P-tefuryl,>1.9,EC50,Panarex,0.03,1551_ai_c,1551_form_c,1551_5,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+365,1551,Quizalop-P-ethyl,>100,LD50,Targa Super,10.4,1551_ai_d,1551_form_d,1551_6,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+366,1551,Quizalop-P-ethyl,>100,LD50,Quizalop-P-ethyl,>25,1551_ai_e,1551_form_e,1551_7,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+367,1551,Quizalop-P-tefuryl,>100,LD50,Quizalop-P-tefuryl,>40,1551_ai_f,1551_form_f,1551_8,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+368,1551,Quizalop-P-ethyl,>500,LC50,Quizalop-P-ethyl,18.5,1551_ai_g,1551_form_g,1551_9,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+369,1551,Quizalop-P-tefuryl,>500,LC50,Quizalop-P-tefuryl,16.95,1551_ai_h,1551_form_h,1551_10,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+370,1543,Etofenprox,0.0012,EC50,TREBON 30EC,0.00044,1543_ai_a,1543_form_a,1543_1,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+371,1543,Etofenprox,>0.150,EC50,TREBON 30EC,58,1543_ai_b,1543_form_b,1543_2,1,Pseudokirchneriella subcapitata,NA,72,Insecticide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+372,1543,Etofenprox,0.024,LD50,TREBON 30EC,0.37,1543_ai_c,1543_form_c,1543_3,1,Apis mellifera,Honeybee,48,Insecticide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+373,1543,Etofenprox,0.015,LD50,TREBON 30EC,0.04,1543_ai_d,1543_form_d,1543_4,1,Apis mellifera,Honeybee,48,Insecticide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+374,1543,Etofenprox,>23.6,LC50,TREBON 30EC,>51.35,1543_ai_e,1543_form_e,1543_5,1,NA,Earthworm,NA,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+375,1534,2-Phenylphenol,4,LC50,AGF/1-04,4.94,1534_ai_a,1534_form_a,1534_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+376,1534,2-Phenylphenol,2.7,EC50,AGF/1-04,2.42,1534_ai_b,1534_form_b,1534_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+377,1534,Cyflufenamid,1.04,LC50,NF-149 EW,0.511,1548_ai_a,1548_form_a,1548_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+378,1534,Cyflufenamid,1.73,EC50,NF-149 EW,0.491,1548_ai_b,1548_form_b,1548_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+379,1534,Cyflufenamid,>0.828,EC50,NF-149 EW,0.0364,1548_ai_c,1548_form_c,1548_3,2,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+380,1534,Cyflufenamid,>0.828,EC50,NF-149 EW,0.0844,1548_ai_c,1548_form_c,1548_4,1,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+381,1534,Cyflufenamid,>100,LD50,NF-149 EW,>15.51,1548_ai_d,1548_form_d,1548_5,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Oil in water emulsion,YES,NA,NA,NA
+382,1534,Cyflufenamid,>100,LD50,NF-149 EW,>15.51,1548_ai_e,1548_form_e,1548_6,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Oil in water emulsion,YES,NA,NA,NA
+383,1534,Cyflufenamid,>500,LC50,NF-149 EW,>25,1548_ai_f,1548_form_f,1548_7,1,NA,Earthworm,336,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+384,1554,Clofentezine,>0.0146,LC50,Apollo 50 SC,>10,1554_ai_a,1554_form_a,1554_1,1,Oncorhynchus mykiss,Rainbow trout,96,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+385,1554,Clofentezine,>0.25,LC50,Apollo 50 SC,>100,1554_ai_b,1554_form_b,1554_2,1,Lepomis macrochirus,Bluegill sunfish,96,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+386,1554,Clofentezine,>0.00084,EC50,Apollo 50 SC,>100,1554_ai_c,1554_form_c,1554_3,1,Daphnia magna,Water flea,48,Acaricide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+387,1554,Clofentezine,>252.6,LD50,Apollo 50 SC,>293.7,1554_ai_d,1554_form_d,1554_4,1,Apis mellifera,Honeybee,NA,Acaricide,Oral,Acute,Suspension Concentrate,NO,YES,NA,NA
+388,1554,Clofentezine,>84.5,LD50,Apollo 50 SC,>98.25,1554_ai_e,1554_form_e,1554_5,1,Apis mellifera,Honeybee,NA,Acaricide,Contact,Acute,Suspension Concentrate,NO,YES,NA,NA
+389,1562,Captan,>100,LD50,Merpan,>169.3,1562_ai_a,1562_form_a,1562_1,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Water dispersible granule,YES,NA,NA,NA
+390,1562,Captan,>100,LD50,Merpan,>200,1562_ai_b,1562_form_b,1562_2,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Water dispersible granule,YES,NA,NA,NA
+391,1562,Captan,>259.7,LC50,Melvin,419.5,1562_ai_c,1562_form_c,1562_3,1,NA,Earthworm,336,Fungicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+392,1559,Folpet,>2000,LD50,Folpan 80 WDG,>2000,1559_ai_a,1559_form_a,1559_1,1,NA,Rat,NA,Fungicide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+393,1559,Folpet,>236,LD50,Folpan 80 WDG,>179,1559_ai_b,1559_form_b,1559_2,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Water dispersible granule,YES,NA,NA,NA
+394,1559,Folpet,>200,LD50,Folpan 80 WDG,>160,1559_ai_c,1559_form_c,1559_3,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Water dispersible granule,YES,NA,NA,NA
+395,1559,Folpet,>500,LC50,Folpan 80 WDG,>414,1559_ai_d,1559_form_d,1559_4,1,NA,Earthworm,336,Fungicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+396,1555,Myclobutanil,2,LC50,Systhane 20 EW,2.04,1555_ai_a,1555_form_a,1555_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+397,1555,Myclobutanil,17,EC50,Systhane 20 EW,1.41,1555_ai_b,1555_form_b,1555_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Oil in water emulsion,YES,NA,NA,NA
+398,1552,Carbofuran,0.0094,EC50,Furadan 5G,0.00205,1552_ai_a,1552_form_a,1552_1,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Granule,YES,NA,NA,NA
+399,1563,Pyriproxyfen,94,EC50,Pyriproxyfen 10 EC,74,1563_ai_a,1563_form_a,1563_1,2,Pseudokirchneriella subcapitata,NA,72,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+400,1563,Pyriproxyfen,150,EC50,Pyriproxyfen 10 EC,110,1563_ai_a,1563_form_a,1563_2,1,Pseudokirchneriella subcapitata,NA,72,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+401,1558,Spirodiclofen,>0.06,EC50,Envidor SC 240,>4.62,1558_ai_a,1558_form_a,1558_1,2,Pseudokirchneriella subcapitata,NA,96,Insecticide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+402,1558,Spirodiclofen,>0.06,EC50,Envidor SC 240,>4.62,1558_ai_a,1558_form_a,1558_2,1,Pseudokirchneriella subcapitata,NA,96,Insecticide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+403,1558,Spirodiclofen,>0.0508,EC50,Envidor SC 240,>100,1558_ai_b,1558_form_b,1558_3,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+404,1558,Spirodiclofen,>196,LD50,Envidor SC 240,>100,1558_ai_c,1558_form_c,1558_4,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+405,1558,Spirodiclofen,>200,LD50,Envidor SC 240,>100,1558_ai_d,1558_form_d,1558_5,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+406,1558,Spirodiclofen,>1000,LC50,Envidor SC 240,>226,1558_ai_e,1558_form_e,1558_6,1,NA,Earthworm,NA,Insecticide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+407,1564,Penoxsulam,>5000,LD50,penoxsulam DE-638,>100,1564_ai_a,1564_form_a,1564_1,1,NA,Rat,NA,Herbicide,NA,Acute,Oil dispersion,NO,YES,NA,NA
+408,1564,Penoxsulam,>2000,LD50,penoxsulam DE-638,>54,1564_ai_b,1564_form_b,1564_2,1,Anas platyrhynchos,Mallard duck,NA,Herbicide,NA,Acute,Oil dispersion,YES,NA,NA,NA
+409,1564,Penoxsulam,>100,LC50,penoxsulam DE-638,>2.7,1564_ai_c,1564_form_c,1564_3,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Oil dispersion,YES,NA,NA,NA
+410,1564,Penoxsulam,>100,EC50,penoxsulam DE-638,10.9,1564_ai_d,1564_form_d,1564_4,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Oil dispersion,YES,NA,NA,NA
+411,1564,Penoxsulam,>100,LD50,penoxsulam DE-638,>3.2,1564_ai_e,1564_form_e,1564_5,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Oil dispersion,NO,YES,NA,NA
+412,1564,Penoxsulam,>100,LD50,penoxsulam DE-638,>2,1564_ai_f,1564_form_f,1564_6,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Oil dispersion,NO,YES,NA,NA
+413,1564,Penoxsulam,>1000,LC50,penoxsulam DE-638,>200,1564_ai_g,1564_form_g,1564_7,1,NA,Earthworm,336,Herbicide,NA,Acute,Oil dispersion,NO,YES,NA,NA
+414,1574,Oxadiazon,0.00318,EC50,RONSTAR,0.0204,1574_ai_a,1574_form_a,1574_1,2,Scenedesmus subspicatus,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+415,1574,Oxadiazon,0.00423,EC50,RONSTAR,0.00714,1574_ai_a,1574_form_a,1574_2,1,Scenedesmus subspicatus,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+416,1574,Oxadiazon,>110.5,LD50,RONSTAR,>51.5,1574_ai_b,1574_form_b,1574_3,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+417,1574,Oxadiazon,>100,LD50,RONSTAR,>100,1574_ai_c,1574_form_c,1574_4,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+418,1574,Oxadiazon,>500,LC50,RONSTAR,109,1574_ai_d,1574_form_d,1574_5,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+419,1579,Flonicamid,>100,LC50,Teppeki,>51,1579_ai_a,1579_form_a,1579_1,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+420,1579,Flonicamid,>100,EC50,Teppeki,>51,1579_ai_b,1579_form_b,1579_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+421,1579,Flonicamid,>100,EC50,Teppeki,43,1579_ai_c,1579_form_c,1579_3,2,Pseudokirchneriella subcapitata,NA,72,Insecticide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+422,1579,Flonicamid,>100,EC50,Teppeki,>51,1579_ai_c,1579_form_c,1579_4,1,Pseudokirchneriella subcapitata,NA,72,Insecticide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+423,1589,Bispyribac-sodium,>2250,LD50,Nominee 400 SC,>727,1589_ai_a,1589_form_a,1589_1,1,NA,Quail,NA,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+424,1589,Bispyribac-sodium,>95,LC50,Nominee 400 SC,>35.6,1589_ai_b,1589_form_b,1589_2,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+425,1589,Bispyribac-sodium,>95,EC50,Nominee 400 SC,>35.6,1589_ai_c,1589_form_c,1589_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+426,1589,Bispyribac-sodium,0.83,EC50,Nominee 400 SC,1.5,1589_ai_d,1589_form_d,1589_4,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+427,1589,Bispyribac-sodium,2.08,EC50,Nominee 400 SC,3.82,1589_ai_d,1589_form_d,1589_5,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+428,1589,Bispyribac-sodium,0.0204,EC50,Nominee 400 SC,0.0112,1589_ai_e,1589_form_e,1589_6,2,Lemna gibba,NA,118,Herbicide,NA,Chronic,Suspension Concentrate,YES,NA,NA,NA
+429,1589,Bispyribac-sodium,0.0127,EC50,Nominee 400 SC,0.0167,1589_ai_e,1589_form_e,1589_7,1,Lemna gibba,NA,118,Herbicide,NA,Chronic,Suspension Concentrate,YES,NA,NA,NA
+430,1589,Bispyribac-sodium,>140.67,LD50,Nominee 400 SC,>106.72,1589_ai_f,1589_form_f,1589_8,1,Apis mellifera,Honeybee,48,Herbicide,Oral,Acute,Suspension Concentrate,YES,NA,NA,NA
+431,1589,Bispyribac-sodium,>200,LD50,Nominee 400 SC,>200,1589_ai_g,1589_form_g,1589_9,1,Apis mellifera,Honeybee,48,Herbicide,Contact,Acute,Suspension Concentrate,YES,NA,NA,NA
+432,1589,Bispyribac-sodium,>957,LC50,Nominee 400 SC,>340,1589_ai_h,1589_form_h,1589_10,1,NA,Earthworm,NA,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+433,1591,6-benzyladenine,1584,LD50,Maxcel,>100,1591_ai_a,1591_form_a,1591_1,1,NA,Rat,NA,Plant growth regulator,NA,Acute,Soluble Concentrate,NO,YES,NA,NA
+434,1591,6-benzyladenine,17.75,EC50,Maxcel,0.32,1591_ai_b,1591_form_b,1591_2,1,Daphnia magna,Water flea,48,Plant growth regulator,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+435,1591,6-benzyladenine,36,EC50,Maxcel,0.18,1591_ai_c,1591_form_c,1591_3,2,Pseudokirchneriella subcapitata,NA,72,Plant growth regulator,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+436,1591,6-benzyladenine,45.1,EC50,Maxcel,0.19,1591_ai_c,1591_form_c,1591_4,1,Pseudokirchneriella subcapitata,NA,72,Plant growth regulator,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+437,1591,6-benzyladenine,0.31,EC50,Maxcel,0.57,1591_ai_d,1591_form_d,1591_5,1,Lemna gibba,NA,118,Plant growth regulator,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+438,1591,6-benzyladenine,>58.73,LD50,Maxcel,>7.3,1591_ai_e,1591_form_e,1591_6,1,Apis mellifera,Honeybee,NA,Plant growth regulator,Oral,Acute,Soluble Concentrate,YES,NA,NA,NA
+439,1591,6-benzyladenine,>100,LD50,Maxcel,>7.3,1591_ai_f,1591_form_f,1591_7,1,Apis mellifera,Honeybee,NA,Plant growth regulator,Contact,Acute,Soluble Concentrate,YES,NA,NA,NA
+440,1587,Diclofop-methyl,0.23,EC50,Illoxan 36 EC,0.16,1587_ai_a,1587_form_a,1587_1,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+441,1587,Diclofop-methyl,>2.196,EC50,Illoxan 36 EC,3.24,1587_ai_b,1587_form_b,1587_2,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+442,1587,Diclofop-methyl,0.451,EC50,Illoxan 36 EC,0.16,1587_ai_b,1587_form_b,1587_3,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+443,1587,Diclofop-methyl,>131,LD50,Illoxan 36 EC,>167.2,1587_ai_c,1587_form_c,1587_4,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+444,1587,Diclofop-methyl,>100,LD50,Illoxan 36 EC,>100,1587_ai_d,1587_form_d,1587_5,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+445,1587,Diclofop-methyl,>1000,LC50,Illoxan 36 EC,265,1587_ai_e,1587_form_e,1587_6,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+446,1588,Spiroxamine,565,LD50,Hoggar EC500,477,1588_ai_a,1588_form_a,1588_1,1,Colinus virginianus,Bobwhite quail,NA,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+447,1588,Spiroxamine,0.0032,EC50,Hoggar EC500,0.0059,1588_ai_b,1588_form_b,1588_2,2,Desmodesmus subspicatus,NA,72,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+448,1588,Spiroxamine,0.012,EC50,Hoggar EC500,0.0143,1588_ai_b,1588_form_b,1588_3,1,Desmodesmus subspicatus,NA,72,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+449,1588,Spiroxamine,>100,LD50,Hoggar EC500,>6.25,1588_ai_c,1588_form_c,1588_4,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+450,1588,Spiroxamine,4.2,LD50,Hoggar EC500,15,1588_ai_d,1588_form_d,1588_5,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+451,1583,Clethodim,>100,EC50,Select 240,5.1,1583_ai_a,1583_form_a,1583_1,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+452,1583,Clethodim,1.9,EC50,Select 240,69,1583_ai_b,1583_form_b,1583_2,1,Lemna gibba,NA,118,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+453,1595,Fenoxycarb,425,LC50,Insegar 25 WG,>128,1595_ai_a,1595_form_a,1595_1,1,NA,Earthworm,336,Insecticide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+454,1584,Pencycuron,>0.3,LC50,Monceren,>0.3,1584_ai_a,1584_form_a,1584_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Dry seed treatment,YES,NA,NA,NA
+455,1584,Pencycuron,>0.3,EC50,Monceren,15.7,1584_ai_b,1584_form_b,1584_2,1,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Dry seed treatment,YES,NA,NA,NA
+456,1586,Metaldehyde,283,LD50,Helarion,250,1586_ai_a,1586_form_a,1586_1,1,NA,Rat,NA,Molluscicide,NA,Acute,Ready-to-use bait,YES,NA,NA,NA
+457,1594,Flurochloridone,4.3,EC50,Racer,37,1594_ai_a,1594_form_a,1594_1,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+458,1594,Flurochloridone,227,LC50,Racer,90,1574_ai_b,1574_form_b,1594_2,1,NA,Earthworm,336,Herbicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+459,1593,Carbetamide,>2000,LD50,FSG01002H,>1200,1593_ai_a,1593_form_a,1593_1,1,NA,Rat,NA,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+460,1593,Carbetamide,>100,LC50,FSG01002H,3.4,1593_ai_b,1593_form_b,1593_2,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+461,1593,Carbetamide,81,EC50,FSG01002H,>59.1,1593_ai_c,1593_form_c,1593_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+462,1593,Carbetamide,128,EC50,FSG01002H,59.4,1593_ai_d,1593_form_d,1593_4,2,Navicula pelliculosa,NA,72,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+463,1593,Carbetamide,212,EC50,FSG01002H,64.8,1593_ai_d,1593_form_d,1593_5,1,Navicula pelliculosa,NA,72,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+464,1593,Carbetamide,660,LC50,FSG01002H,>591,1593_ai_e,1593_form_e,1593_6,1,Eisenia foetida,NA,336,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+465,1597,Difenoconazole,>1453,LD50,DIVIDEND,>3000,1597_ai_a,1597_form_b,1597_1,1,NA,Rat,NA,Fungicide,NA,Acute,Flowable concentrate,UNSURE,NA,NA,NA
+466,1597,Difenoconazole,>1453,LD50,SCORE,>3000,1597_ai_a,1597_form_c,1597_2,1,NA,Rat,NA,Fungicide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+467,1597,Difenoconazole,0.77,EC50,DIVIDEND,0.43,1597_ai_d,1597_form_e,1597_3,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Flowable concentrate,YES,NA,NA,NA
+468,1597,Difenoconazole,0.77,EC50,SCORE,1,1597_ai_d,1597_form_f,1597_4,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+469,1597,Difenoconazole,0.032,EC50,SCORE,0.29,1597_ai_g,1597_form_g,1597_5,1,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+470,1597,Difenoconazole,>610,LC50,SCORE,40,1597_ai_h,1597_form_h,1597_6,1,Eisenia foetida,Earthworm,336,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+471,1596,Terbuthylazine,1236,LD50,Terbuthylazine 500g/l SC,>909,1596_ai_a,1596_form_a,1596_1,1,Colinus virginianus,Bobwhite quail,NA,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+472,1596,Terbuthylazine,1295,LD50,Terbuthylazine 500g/l SC,>909,1596_ai_b,1596_form_b,1596_2,1,NA,Rat,NA,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+473,1596,Terbuthylazine,2.2,LC50,Terbuthylazine 500g/l SC,6.6,1596_ai_c,1596_form_c,1596_3,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+474,1596,Terbuthylazine,0.012,EC50,Terbuthylazine 500g/l SC,0.021,1596_ai_d,1596_form_d,1596_4,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+475,1596,Terbuthylazine,0.028,EC50,Terbuthylazine 500g/l SC,0.04,1596_ai_d,1596_form_d,1596_5,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+476,1596,Terbuthylazine,>22.6,LD50,Terbuthylazine 500g/l SC,>68.75,1596_ai_e,1596_form_e,1596_6,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Suspension Concentrate,NO,YES,NA,NA
+477,1596,Terbuthylazine,>32,LD50,Terbuthylazine 500g/l SC,>50,1596_ai_f,1596_form_f,1596_7,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Suspension Concentrate,NO,YES,NA,NA
+478,1596,Terbuthylazine,>141.7,LC50,Terbuthylazine 500g/l SC,>500,1596_ai_g,1596_form_g,1596_8,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Suspension Concentrate,YES,NA,NA,NA
+479,1600,1-naphthylacetic acid,933,LD50,Obsthormon 24A,>2000,1600_ai_a,1600_form_a,1600_1,1,NA,Rat,NA,Plant growth regulator,NA,Acute,Suspension Concentrate,UNSURE,NA,NA,NA
+480,1600,1-naphthylacetic acid,>56,LC50,Spollonante,37,1600_ai_b,1600_form_b,1600_2,1,Oncorhynchus mykiss,Rainbow trout,96,Plant growth regulator,NA,Acute,Granule,YES,NA,NA,NA
+481,1600,1-naphthylacetic acid,>56,EC50,Spollonante,>100,1600_ai_c,1600_form_c,1600_3,1,Daphnia magna,Water flea,48,Plant growth regulator,NA,Acute,Granule,YES,NA,NA,NA
+482,1600,1-naphthylacetic acid,>100,EC50,Spollonante,>100,1600_ai_d,1600_form_d,1600_4,1,Pseudokirchneriella subcapitata,NA,72,Plant growth regulator,NA,Acute,Granule,YES,NA,NA,NA
+483,1601,2-(1-napthyl)acetamide,44,LC50,AmidThin,>8.2,1601_ai_a,1601_form_a,1601_1,1,Oncorhynchus mykiss,Rainbow trout,96,Plant growth regulator,NA,Acute,Wettable Powder,YES,NA,NA,NA
+484,1601,2-(1-napthyl)acetamide,>56,EC50,AmidThin,>8.2,1601_ai_b,1601_form_b,1601_2,1,Daphnia magna,Water flea,48,Plant growth regulator,NA,Acute,Wettable Powder,YES,NA,NA,NA
+485,1601,2-(1-napthyl)acetamide,>100,EC50,AmidThin,>8.2,1601_ai_c,1601_form_c,1601_3,2,Desmodesmus subspicatus,NA,72,Plant growth regulator,NA,Acute,Wettable Powder,YES,NA,NA,NA
+486,1601,2-(1-napthyl)acetamide,>100,EC50,AmidThin,>8.2,1601_ai_c,1601_form_c,1601_4,1,Desmodesmus subspicatus,NA,72,Plant growth regulator,NA,Acute,Wettable Powder,YES,NA,NA,NA
+487,1604,Propanil,960,LD50,Propanil 60,1500,1604_ai_a,1604_form_a,1604_1,1,NA,Rat,NA,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+488,1604,Propanil,621,LC50,Propanil 60,734,1604_ai_b,1604_form_b,1604_2,1,Eisenia foetida,Earthworm,336,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+489,1609,Prochloraz,662,LD50,BAS 590 05 F,>2000,1609_ai_a,1609_form_a,1609_1,1,Colinus virginianus,Bobwhite quail,NA,Fungicide,NA,Acute,UNSURE,UNSURE,NA,NA,NA
+490,1609,Prochloraz,4.3,EC50,Sportak 45 EW,4.28,1609_ai_b,1609_form_b,1609_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Oil in water emulsion,NO,YES,NA,NA
+491,1609,Prochloraz,>0.032,EC50,Sportak 45 EW,>0.09,1609_ai_c,1609_form_c,1609_3,2,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Oil in water emulsion,NO,YES,NA,NA
+492,1609,Prochloraz,0.0055,EC50,Sportak 45 EW,0.041,1609_ai_c,1609_form_c,1609_4,1,Scenedesmus subspicatus,NA,72,Fungicide,NA,Acute,Oil in water emulsion,NO,YES,NA,NA
+493,1609,Prochloraz,>101.06,LD50,Sportak 45 EW,27.4,1609_ai_d,1609_form_f,1609_5,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Oil in water emulsion,YES,NA,NA,NA
+494,1609,Prochloraz,>101.06,LD50,BAS 590 05 F,99.24,1609_ai_d,1609_form_g,1609_6,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,UNSURE,YES,NA,NA,NA
+495,1609,Prochloraz,141.28,LD50,Sportak 45 EW,46.7,1609_ai_e,1609_form_h,1609_7,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Oil in water emulsion,YES,NA,NA,NA
+496,1609,Prochloraz,141.28,LD50,BAS 590 05 F,>100,1609_ai_e,1609_form_i,1609_8,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,UNSURE,YES,NA,NA,NA
+497,1609,Prochloraz,>500,LC50,Sportak 45 EW,102.3,1609_ai_j,1609_form_j,1609_9,1,Eisenia foetida,Earthworm,336,Fungicide,NA,Acute,Oil in water emulsion,NO,YES,NA,NA
+498,1617,Gibberellins,100,LC50,Formulation GA4/GA7 10g/l SL,>1.2998,1617_ai_a,1617_form_a,1617_1,1,Oncorhynchus mykiss,Rainbow trout,96,Plant growth regulator,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
+499,1770,Oxamyl,0.38,LD50,Vydate 10G,0.26,1770_ai_a,1770_form_a,1770_1,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Granule,YES,NA,NA,NA
+500,1770,Oxamyl,0.47,LD50,Vydate 10G,0.23,1770_ai_b,1770_form_b,1770_2,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Granule,YES,NA,NA,NA
+501,1770,Oxamyl,112,LC50,Vydate 10G,>10,1770_ai_c,1770_form_c,1770_3,1,NA,Earthworm,336,Insecticide,NA,Acute,Granule,NO,YES,NA,NA
+502,1771,Fluoxastrobin,0.435,LC50,HEC 5725 EC 100,0.329,1771_ai_a,1771_form_a,1771_1,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+503,1771,Fluoxastrobin,0.48,EC50,HEC 5725 EC 100,0.5,1771_ai_b,1771_form_b,1771_2,1,Daphnia magna,Water flea,48,Fungicide,NA,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+504,1771,Fluoxastrobin,0.35,EC50,HEC 5725 EC 100,0.48,1771_ai_c,1771_form_c,1771_3,1,Pseudokirchneriella subcapitata,NA,72,Fungicide,NA,Acute,Emusifiable Concentrate,NO,YES,NA,NA
+505,1771,Fluoxastrobin,>843,LD50,HEC 5725 EC 100,25.5,1771_ai_d,1771_form_d,1771_4,1,Apis mellifera,Honeybee,48,Fungicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+506,1771,Fluoxastrobin,>200,LD50,HEC 5725 EC 100,29.7,1771_ai_e,1771_form_e,1771_5,1,Apis mellifera,Honeybee,48,Fungicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+507,1779,Triclopyr-butoxyethyl ester,803,LD50,Garlon 4,842,1779_ai_a,1779_form_a,1779_1,1,NA,Rat,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+508,1779,Triclopyr-butoxyethyl ester,735,LD50,Garlon 4,849,1779_ai_b,1779_form_b,1779_2,1,Colinus virginianus,Bobwhite quail,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+509,1779,Triclopyr-butoxyethyl ester,>100,LD50,Garlon 4,>100,1779_ai_c,1779_form_c,1779_3,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+510,1779,Triclopyr-butoxyethyl ester,>521,LC50,Garlon 4,555,1779_ai_d,1779_form_d,1779_4,1,NA,Earthworm,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+511,1780,Dimethenamid,2.6,LC50,Frontier,2.54,1780_ai_a,1780_form_a,1780_1,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+512,1780,Dimethenamid,1000,LD50,Frontier,126,1780_ai_b,1780_form_d,1780_2,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+513,1780,Dimethenamid,1000,LD50,SAN 582 H720 EC,50,1780_ai_b,1780_form_e,1780_3,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+514,1780,Dimethenamid,1000,LD50,SAN 582 H 540 EW,50,1780_ai_b,1780_form_f,1780_4,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+515,1780,Dimethenamid,94,LD50,Frontier,126,1780_ai_c,1780_form_g,1780_5,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+516,1780,Dimethenamid,94,LD50,SAN 582 H720 EC,50,1780_ai_c,1780_form_h,1780_6,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+517,1780,Dimethenamid,94,LD50,SAN 582 H 540 EW,50,1780_ai_c,1780_form_i,1780_7,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+518,1780,Dimethenamid,147.2,LC50,SAN 582 900 EC,495,1780_ai_j,1780_form_j,1780_8,1,NA,Earthworm,NA,Herbicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+519,1782,Cyprodinil,>2000,LD50,KAYAK 300 EC,>2000,1782_ai_a,1782_form_b,1782_1,1,NA,Rat,NA,Fungicide,NA,Acute,Emusifiable Concentrate,UNSURE,NA,NA,NA
+520,1782,Cyprodinil,>2000,LD50,UNIX 75 WG,>2000,1782_ai_a,1782_form_c,1782_2,1,NA,Rat,NA,Fungicide,NA,Acute,Water dispersible granule,UNSURE,NA,NA,NA
+521,1782,Cyprodinil,2.41,LC50,KAYAK 300 EC,1.55,1782_ai_d,1782_form_d,1782_3,1,Oncorhynchus mykiss,Rainbow trout,96,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+522,1782,Cyprodinil,2.6,EC50,KAYAK 300 EC,1.8,1782_ai_e,1782_form_e,1782_4,2,Pseudokirchneriella subcapitata,NA,96,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+523,1782,Cyprodinil,5.2,EC50,KAYAK 300 EC,3.7,1782_ai_e,1782_form_e,1782_5,1,Pseudokirchneriella subcapitata,NA,96,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+524,1783,Clopyralid,>99.9,LC50,EF-255,53,1779_ai_a,1779_form_a,1779_1,1,Oncorhynchus mykiss,Rainbow trout,NA,Herbicide,NA,Acute,UNSURE,YES,NA,NA,NA
+525,1783,Clopyralid,>99,EC50,EF-255,130,1779_ai_b,1779_form_b,1779_2,1,Daphnia magna,Water flea,NA,Herbicide,NA,Acute,UNSURE,YES,NA,NA,NA
+526,1783,Clopyralid,30,EC50,EF-255,77.4,1779_ai_c,1779_form_c,1779_3,1,NA,Green alga,NA,Herbicide,NA,Acute,UNSURE,YES,NA,NA,NA
+527,1785,Fenamiphos,444,LC50,NEMACUR CS 240,>119,1785_ai_a,1785_form_a,1785_1,1,NA,Earthworm,NA,Nematicide,NA,Acute,Capsule Suspension,YES,NA,NA,NA
+528,1786,Phosalone,0.63,LC50,Zolone 30 WP,1.06,1786_ai_a,1786_form_a,1786_1,1,Oncorhynchus mykiss,Rainbow trout,96,Insecticide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+529,1786,Phosalone,0.00074,EC50,Zolone 35 EC,0.000396,1786_ai_b,1786_form_b,1786_2,1,Daphnia magna,Water flea,48,Insecticide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+530,1786,Phosalone,103,LD50,Zolone 30 WP,12.4,1786_ai_c,1786_form_e,1786_3,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Wettable Powder,YES,NA,NA,NA
+531,1786,Phosalone,103,LD50,Zolone 35 EC,2.6,1786_ai_c,1786_form_f,1786_4,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+532,1786,Phosalone,4.4,LD50,Zolone 30 WP,10.4,1786_ai_d,1786_form_g,1786_5,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Wettable Powder,YES,NA,NA,NA
+533,1786,Phosalone,4.4,LD50,Zolone 35 EC,4.5,1786_ai_d,1786_form_h,1786_6,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+534,1786,Chloridazon,2140,LD50,Pyramin,536,1788_ai_a,1788_form_a,1788_1,1,NA,Rat,NA,Herbicide,NA,Acute,Wettable Powder,YES,NA,NA,NA
+535,1786,Chloridazon,41.3,LC50,Pyramin,32.8,1788_ai_b,1788_form_b,1788_2,1,Oncorhynchus mykiss,Rainbow trout,96,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+536,1786,Chloridazon,132,EC50,Pyramin,52,1788_ai_c,1788_form_c,1788_3,1,Daphnia magna,Water flea,48,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+537,1786,Chloridazon,3.7,EC50,Pyramin,2.62,1788_ai_d,1788_form_d,1788_4,2,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+538,1786,Chloridazon,0.6,EC50,Pyramin,0.65,1788_ai_d,1788_form_d,1788_5,1,Pseudokirchneriella subcapitata,NA,72,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+539,1786,Chloridazon,>200,LD50,Pyramin,>103.4,1788_ai_e,1788_form_e,1788_6,1,Apis mellifera,Honeybee,NA,Herbicide,Oral,Acute,Water dispersible granule,NO,YES,NA,NA
+540,1786,Chloridazon,>200,LD50,Pyramin,>130,1788_ai_f,1788_form_f,1788_7,1,Apis mellifera,Honeybee,NA,Herbicide,Contact,Acute,Water dispersible granule,NO,YES,NA,NA
+541,1786,Chloridazon,>1000,LC50,Pyramin,>650,1788_ai_g,1788_form_g,1788_8,1,NA,Earthworm,336,Herbicide,NA,Acute,Water dispersible granule,YES,NA,NA,NA
+542,1790,Prothioconazole,>6200,LD50,Proline,>2500,1790_ai_a,1790_form_b,1790_1,1,NA,Rat,NA,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+543,1790,Prothioconazole,>6200,LD50,Redigo,>2500,1790_ai_a,1790_form_c,1790_2,1,NA,Rat,NA,Fungicide,NA,Acute,Flowable concentrate,YES,NA,NA,NA
+544,1790,Prothioconazole,1.83,LC50,Proline,1,1790_ai_d,1790_form_d,1790_3,1,Oncorhynchus mykiss,Rainbow trout,NA,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+545,1790,Prothioconazole,6.91,LC50,Proline,3.72,1790_ai_e,1790_form_e,1790_4,1,Cyrpinus carpio,NA,NA,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+546,1790,Prothioconazole,1.3,EC50,Proline,0.71,1790_ai_f,1790_form_f,1790_5,1,Daphnia magna,NA,NA,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+547,1790,Prothioconazole,1.1,EC50,Proline,2.92,1790_ai_g,1790_form_g,1790_6,2,Pseudokirchneriella subcapitata,NA,NA,Fungicide,NA,Sub-chronic,Emusifiable Concentrate,YES,NA,NA,NA
+548,1790,Prothioconazole,2.18,EC50,Proline,1.11,1790_ai_g,1790_form_g,1790_7,1,Pseudokirchneriella subcapitata,NA,NA,Fungicide,NA,Sub-chronic,Emusifiable Concentrate,YES,NA,NA,NA
+549,1790,Prothioconazole,>71,LD50,Proline,>48.7,1790_ai_h,1790_form_h,1790_8,1,Apis mellifera,Honeybee,NA,Fungicide,Oral,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+550,1790,Prothioconazole,>200,LD50,Proline,>200,1790_ai_i,1790_form_i,1790_9,1,Apis mellifera,Honeybee,NA,Fungicide,Contact,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+551,1790,Prothioconazole,>1000,LC50,Proline,>249.3,1790_ai_j,1790_form_j,1790_10,1,Eisenia foetida,Earthworm,NA,Fungicide,NA,Acute,Emusifiable Concentrate,YES,NA,NA,NA
+552,1800,Imidacloprid,0.0037,LD50,Unsure,0.0056,1800_ai_a,1800_form_a,1800_1,1,Apis mellifera,Honeybee,NA,Insecticide,Oral,Acute,UNSURE,YES,NA,NA,NA
+553,1800,Imidacloprid,0.081,LD50,Unsure,0.042,1800_ai_b,1800_form_b,1800_2,1,Apis mellifera,Honeybee,NA,Insecticide,Contact,Acute,UNSURE,YES,NA,NA,NA
+554,1800,Imidacloprid,10.7,LC50,Confidor,21.8,1800_ai_c,1800_form_c,1800_3,1,NA,Earthworm,NA,Insecticide,NA,Acute,Soluble Concentrate,YES,NA,NA,NA
